@@ -25,16 +25,16 @@ IoU_plot(0.25)
 ```
 ![IoU = 0.25](image/iou025.png)
 
-### IoU = 0.25
+### IoU = 0.60
 
 ```python
-IoU_plot(0.25)
+IoU_plot(0.60)
 ```
 ![IoU = 0.60](image/iou060.png)
 
-### IoU = 0.25
+### IoU = 0.95
 
 ```python
-IoU_plot(0.25)
+IoU_plot(0.95)
 ```
 ![IoU = 0.95](image/iou095.png)
