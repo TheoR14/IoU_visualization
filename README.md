@@ -23,18 +23,18 @@ The code outputs a matplotlib figure showing both the ground truth and predictio
 ```python
 IoU_plot(0.25)
 ```
-![IoU = 0.25](images/iou025.png)
+![IoU = 0.25](image/iou025.png)
 
 ### IoU = 0.25
 
 ```python
 IoU_plot(0.25)
 ```
-![IoU = 0.60](images/iou060.png)
+![IoU = 0.60](image/iou060.png)
 
 ### IoU = 0.25
 
 ```python
 IoU_plot(0.25)
 ```
-![IoU = 0.95](images/iou095.png)
+![IoU = 0.95](image/iou095.png)
