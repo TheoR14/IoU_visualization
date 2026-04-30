@@ -1,3 +1,7 @@
+import matplotlib.pyplot as plt
+from matplotlib.patches import Rectangle
+from sympy import symbols, solve, Eq
+
 def IoU_plot(IoU):
     """
     Plots two overlapping squares corresponding to a given Intersection over Union (IoU) value.
